@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @KrulAndMe
 - 👀 I’m interested in Vocaloid, Manga, Modding, Coding,...
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning:
 - Information Security
 - Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🕍 Currently studying at Academy of Cryptography Techniques
+- 💞️ My love: Krul Tepes from Owari no Seraph
+
+
 
 <!---
 KrulAndMe/KrulAndMe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
