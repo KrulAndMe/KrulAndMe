@@ -5,7 +5,8 @@
       + Web Development
 - 🕍 Currently studying at Academy of Cryptography Techniques
 - 💞️ My love: Krul Tepes from Owari no Seraph
-World is already mine-
+
+         -World is already mine-
 
 
 <!---
