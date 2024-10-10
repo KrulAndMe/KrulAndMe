@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KrulAndMe
 - 👀 I’m interested in Vocaloid, Manga, Modding, Coding,...
 - 🌱 I’m currently learning:
-      + Information Security
+      Information Security
       + Web Development
 - 🕍 Currently studying at Academy of Cryptography Techniques
 - 💞️ My love: Krul Tepes from Owari no Seraph
